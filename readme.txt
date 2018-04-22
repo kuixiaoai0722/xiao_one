@@ -12,4 +12,5 @@ Creating a new branch is quick and simple.
 所以说他记住的是相对位置
 
 new Test
+hello
 
